@@ -1,0 +1,15 @@
+{
+  "liveServer.settings.host": "hkdev.com",
+  "liveServer.settings.port": 3000,
+  "liveServer.settings.https": {
+    "enable": true,
+    "cert": "/Users/user/Documents/project/.cert/cert.pem",
+    "key": "/Users/user/Documents/project/.cert/key.pem",
+    "passphrase": ""
+  },
+  "liveServer.settings.proxy": {
+    "enable": true,
+    "baseUri": "/",
+    "proxyUri": "http://localhost:5173"
+  }
+}
